@@ -24,4 +24,4 @@ Este mês a professora levou____ maçãs e ____ peras.
 
 ![preview](https://media.discordapp.net/attachments/935728260262805514/1065036782753828995/image.png?width=800&height=200)
 
-![preview](https://media.discordapp.net/attachments/935728260262805514/1065036170632900719/image.png?width=800&height=600)
+![preview](https://media.discordapp.net/attachments/935728260262805514/1065036170632900719/image.png?width=800&height=800)
