@@ -14,7 +14,7 @@ Condições a serem atendidas em cada linha da tabela:
 
 ### Ex.:
 Dia |	Peras |	Maçãs |	Melhor | Aluno |	Fruta 1 |	Fruta 2 |	Fruta 3
--- | -- | -- | ---- | ---- | ---- | ---- | ---- | ----
+-- | -- | -- | ---- | ---- | ---- | ---- | ----
 1 |	3 |	1 |	Maria |	Pera |	Pera |	Pera
 2 |	2 |	1 |	João |	Maçã |	Pera |	Pera
 3 |	1 |	4 |	Maria |	Pera |	Maçã |	Maçã 
