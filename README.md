@@ -18,6 +18,6 @@ Dia |	Peras |	Maçãs |	Melhor | Aluno |	Fruta 1 |	Fruta 2 |	Fruta 3
 1 |	3 |	1 |	Maria |	Pera |	Pera |	Pera
 2 |	2 |	1 |	João |	Maçã |	Pera |	Pera
 3 |	1 |	4 |	Maria |	Pera |	Maçã |	Maçã 
-30 |	1 |	1 |	João |	Maçã |	Pera |	--
+30 |	1 |	1 |	João |	Maçã |	Pera |
 
 Este mês a professora levou____ maçãs e ____ peras.
