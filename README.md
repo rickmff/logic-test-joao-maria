@@ -22,6 +22,6 @@ Dia |	Peras |	Maçãs |	Melhor Aluno |	Fruta 1 |	Fruta 2 |	Fruta 3
 
 Este mês a professora levou____ maçãs e ____ peras.
 
-![preview](https://media.discordapp.net/attachments/935728260262805514/1065036782753828995/image.png)
+![preview](https://media.discordapp.net/attachments/935728260262805514/1065036782753828995/image.png?width=421)
 
 ![preview](https://media.discordapp.net/attachments/935728260262805514/1065036170632900719/image.png?width=421&height=500)
