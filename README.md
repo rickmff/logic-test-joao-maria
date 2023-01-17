@@ -13,7 +13,7 @@ Condições a serem atendidas em cada linha da tabela:
 ### 4) se João levar 5 maçãs, e Maria levar 1 pera, caso a Maria seja a melhor aluna, a professora levará 1 pera e 2 maçãs. Observação, a ordem neste dia ficaria: pera - maçã - maçã.
 
 ### Ex.:
-Dia |	Peras |	Maçãs |	Melhor | Aluno |	Fruta 1 |	Fruta 2 |	Fruta 3
+Dia |	Peras |	Maçãs |	Melhor Aluno |	Fruta 1 |	Fruta 2 |	Fruta 3
 -- | -- | -- | ---- | ---- | ---- | ---- | ----
 1 |	3 |	1 |	Maria |	Pera |	Pera |	Pera
 2 |	2 |	1 |	João |	Maçã |	Pera |	Pera
